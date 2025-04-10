@@ -46,3 +46,25 @@ NAND Gate:
 XNOR Gate:
     Finally, consider the XNOR gate. It also involves two input signals. The XNOR rule outputs an “on” signal only when both the inputs are the same (both “On” or both “Off”). Otherwise, the output signal will be “off.”
 
+PRACTICE ASSIGNMENT:
+How many possible values can we have with the 8 bits in a byte?
+    256
+
+What is the highest decimal value a byte can represent?
+    255
+
+Why did UTF-8 replace the ASCII character-encoding standard?
+    UTF-8 can store a character in more than one byte
+
+What is 10101010 in decimal format?
+128 64  32  16  8   4   2   1
+1   0   1   0   1   0   1   0
+128 + 32 + 8 + 2 = 170
+
+What is 45 in binary form?
+128 64  32  16  8   4   2   1
+0   0   1   1   0   0   1   1
+45 - 32 = 13
+16 - 13 = 3
+3 - 2 = 1
+1 - 1 = 0
