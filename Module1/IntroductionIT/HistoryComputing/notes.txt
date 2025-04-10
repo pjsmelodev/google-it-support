@@ -1,3 +1,7 @@
-VIDEO QUESTION:
+VIDEO QUESTIONS:
 What cards had holes in them that were historically used to store data? 
     Punch cards
+
+A(n) ____ is a series of steps that solve specific problems. 
+    algorithm
+
