@@ -5,3 +5,5 @@ What cards had holes in them that were historically used to store data?
 A(n) ____ is a series of steps that solve specific problems. 
     algorithm
 
+What are the three main desktop operating systems used today? Check all that apply.
+    Windows, MacOS, Linux
