@@ -1,0 +1,48 @@
+BINARY SYSTEM:
+The communication that a computer uses, also known as base-2 numeral system
+
+bit -> dígito binário (1 ou 0)
+byte -> conjunto de 8 bits -> 256 valores possíveis
+
+VIDEO QUESTION:
+What does the following binary code translate to? 
+01101000  01100101  01101100  01101100   01101111
+    h       e       l           l           o
+
+CHARACTER ENCODING:
+Assigns our binary values to characters, so that we as humans can read them
+
+ASCII
+Represents the English alphabet, digits, and punctuation marks
+
+UTF-8
+Usado nos dias de hoje
+Permite usar mais do que um byte para representar
+Usa Unicode
+
+VIDEO QUESTION:
+In punch card systems, a hole represents the number ____.  
+    1
+
+LOGIC GATES:
+Allow outr transistors to do more complex tasks, like decide where to send elecrical signals depending on logical conditions
+
+Six common logic gates:
+NOT Gate:
+    The NOT gate is the simplest because it has only one input signal. The NOT gate takes that input signal and outputs a signal with the opposite binary state.
+
+AND Gate:
+    The AND gate involves two input signals rather than just one. Having two input signals means there will be four possible combinations of input values.
+
+OR Gate:
+    The OR gate involves two input signals. The OR rule outputs an “off” signal only when both the inputs are “off.” Otherwise, the output signal will be “on.”
+
+XOR Gate:
+    The XOR gate also involves two input signals. The XOR rule outputs an “on” signal when only one (but not both) of the inputs are “on.” Otherwise, the output signal will be “off.”
+
+NAND Gate:
+    The NAND gate involves two input signals. The NAND rule outputs an “off” signal only when both the inputs are “on.” Otherwise, the output signal will be “on.”
+
+XNOR Gate:
+    Finally, consider the XNOR gate. It also involves two input signals. The XNOR rule outputs an “on” signal only when both the inputs are the same (both “On” or both “Off”). Otherwise, the output signal will be “off.”
+
